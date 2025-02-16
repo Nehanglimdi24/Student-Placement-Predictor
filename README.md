@@ -4,8 +4,7 @@ This project predicts whether a student will get placed or not based on key acad
 Dataset 📊
 I have used publicly available datasets to train the model:
 
-Dataset 1 (Hugging Face): https://huggingface.co/datasets/Krooz/Campus_Recruitment_CSV
-Dataset 2 (Kaggle): https://www.kaggle.com/datasets/ahsan81/job-placement-dataset
+(i)Dataset 1 (Hugging Face): https://huggingface.co/datasets/Krooz/Campus_Recruitment_CSV                                    (ii)Dataset 2 (Kaggle): https://www.kaggle.com/datasets/ahsan81/job-placement-dataset
 Features Used for Prediction 🏆
 The model considers the following attributes:
 ✅ CGPA – Cumulative Grade Point Average in college
